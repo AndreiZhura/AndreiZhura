@@ -34,7 +34,6 @@ ___
 <div>
  
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-
   <img src="https://avatars.mds.yandex.net/i?id=255d28fc8d173a0c32e194819da241c82ed49985-5104820-images-thumbs&n=13" title="linux" alt="linux" width="40" height="40"/>&nbsp;
    <img src="https://avatars.mds.yandex.net/i?id=ed148b1ed5f86855f6c0e846f53547c169bf905c-9106685-images-thumbs&n=13" title="git" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" title="vs code" alt="vs code" width="40" height="40"/>&nbsp;
