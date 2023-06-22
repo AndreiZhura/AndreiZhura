@@ -23,7 +23,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://yandex.ru/images/search?pos=14&from=tabbar&img_url=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F602%2F792%2Fpng-transparent-web-development-php-mysql-computer-software-server-side-scripting-por-ccedil-otilde-es-blue-text-trademark.png&text=php+svg&rpt=simage&lr=21623" title="php" alt="php" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.mds.yandex.net/i?id=39cf9595124e011074e8d5fc9d01a2d4-5859290-images-thumbs&n=13" title="php" alt="php" width="40" height="40"/>&nbsp;
 
 </div>
 
@@ -35,7 +35,7 @@ ___
  
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
 
-  <img src="https://yandex.ru/images/search?p=1&text=linux+svg&pos=15&rpt=simage&img_url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9e%2FUbuntuCoF.svg%2F1024px-UbuntuCoF.svg.png&from=tabbar&lr=21623" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.mds.yandex.net/i?id=255d28fc8d173a0c32e194819da241c82ed49985-5104820-images-thumbs&n=13" title="linux" alt="linux" width="40" height="40"/>&nbsp;
    <img src="https://avatars.mds.yandex.net/i?id=ed148b1ed5f86855f6c0e846f53547c169bf905c-9106685-images-thumbs&n=13" title="git" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" title="vs code" alt="vs code" width="40" height="40"/>&nbsp;
 </div>
