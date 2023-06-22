@@ -1,4 +1,5 @@
-# Всем Привет, Меня зовут [Андрей](https://vk.com/id546861255/) ![logo](https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?resize=50)
+# Всем Привет, Меня зовут [Андрей](https://vk.com/id546861255/)  ![logo](https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?resize=50)
+
 ___
 ## Я начинающий Веб-разработчик 🇷🇺
 
@@ -22,8 +23,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
+  <img src="https://yandex.ru/images/search?p=1&text=github+icon+php+svg&pos=39&rpt=simage&img_url=https%3A%2F%2Fwww.coinqvest.com%2Fimages%2Flogo-php.png&from=tabbar&lr=21623" title="php" alt="php" width="40" height="40"/>&nbsp;
 
 </div>
 
@@ -36,7 +36,8 @@ ___
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://yandex.ru/images/search?pos=17&from=tabbar&img_url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F9a%2FVisual_Studio_Code_1.35_icon.svg%2F280px-Visual_Studio_Code_1.35_icon.svg.png&text=github+icon+vs+code&rpt=simage&lr=21623" title="vs code" alt="vs code" width="40" height="40"/>&nbsp;
+   <img src="https://avatars.mds.yandex.net/i?id=ed148b1ed5f86855f6c0e846f53547c169bf905c-9106685-images-thumbs&n=13" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
-
 
 
