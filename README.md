@@ -13,7 +13,7 @@
 ### Навыки
 
 <p align="left">
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  <img src="https://yandex.ru/images/search?pos=1&from=tabbar&img_url=https%3A%2F%2Fscontent-hel3-1.cdninstagram.com%2Fv%2Ft51.2885-15%2Fe35%2F154547125_273453810828539_741387447249534708_n.jpg%3Ftp%3D1%26_nc_ht%3Dscontent-hel3-1.cdninstagram.com%26_nc_cat%3D111%26_nc_ohc%3DEtSdc9IiF5cAX_BxndC%26edm%3DABfd0MgBAAAA%26ccb%3D7-4%26oh%3D052aceb5c516293140eb165df521a00a%26oe%3D60B8DFC8%26_nc_sid%3D7bff83&text=картинка+html5&rpt=simage&lr=10740" alt="HTML">
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
