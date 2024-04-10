@@ -9,8 +9,8 @@
     <a href="https://lyubertsy.hh.ru/resume/499bcf48ff033a805d0039ed1f545275356d42">
     <img src="https://img.shields.io/badge/hh-red?style=for-the-badge&logo=hh" alt="hh"/>
   </a>
- <a href="https://career.habr.com/andreizhura">
-    <img src="https://img.shields.io/badge/habr-blue?style=for-the-badge&logo=habr" alt="habr"/>
+<a href="https://career.habr.com/andreizhura">
+    <img src="https://img.shields.io/badge/habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="habr"/>
   </a>
 </div>
 
