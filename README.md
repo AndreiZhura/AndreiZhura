@@ -1,6 +1,7 @@
 <h1 align="center">Всем привет: меня зовут<a href="https://daniilshat.ru/" target="_blank"> Андрей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я - Веб-разработчик</h3>
+center
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
