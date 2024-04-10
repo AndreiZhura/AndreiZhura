@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://t.me/Andre2296">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="telegramm"/>
+    <img src="https://img.shields.io/badge/telegram-blue%20?style=for-the-badge&logo=telegram" alt="telegramm"/>
   </a>
 </div>
 
